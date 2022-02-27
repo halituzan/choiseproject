@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rowWrap{
+    height: 100vh;
+}
+.cheight{
+    height: 33vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: aqua; */
+    font-size:4vw;
+    border-right: 4px solid white;
+    cursor: pointer;
+}
+.row{
+    margin: 0;
+}
+.choise1{
+    background-color:#9ADCFF;
+}
+.choise2{
+    background-color:#FF8AAE;
+}

@@ -1,0 +1,30 @@
+.gender{
+    width: 100vw;
+    height: 100vh;
+    position: sticky;
+    
+}
+.gender h1 {
+    position: fixed;
+}
+.g{
+    width: 50%;
+    height: 100vh;
+    cursor: pointer;
+}
+.g img{
+    width: 50%;
+    filter: drop-shadow(3px 5px 4px rgb(0 0 0 / 0.4));
+}
+.woman{
+    background-color: #FF8AAE;
+}
+.man{
+    background-color: #9ADCFF;
+}
+.choise1Text{
+    color:#9ADCFF;
+}
+.choise2Text{
+    color:#FF8AAE;
+}

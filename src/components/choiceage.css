@@ -1,0 +1,11 @@
+.aheight{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    font-size:4vw;
+    border-bottom: 4px solid white;
+    border-right: 4px solid white;
+    cursor: pointer;
+}
